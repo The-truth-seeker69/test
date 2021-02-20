@@ -12,8 +12,7 @@
     padding: 30px 50px;
     background: #333;
     overflow: auto;
-    padding-bottom: 50px;
-    padding-top:30px;
+    margin-top:20px;
 }
 
 .quotes-displayer {
