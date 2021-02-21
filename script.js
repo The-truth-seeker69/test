@@ -9,6 +9,7 @@ const quotes = [
   "Knowledge is power.",
   "Your limitation—its only your imagination.",
   "Push yourself, because no one else is going to do it for you.",
+  "永不放弃的精神- zilerk"
 ];
 button.addEventListener("click", () => {
   const randomQuotes = Math.floor(Math.random() * quotes.length);
